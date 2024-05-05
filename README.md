@@ -1,7 +1,9 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
+```
 DEVELOPED BY: NIRAUNJANA GAYATHRI G R
 REG NO: 212222230096
+```
 
 # Algorithm or Steps Involved:
 <ol>
